@@ -88,8 +88,3 @@ SELECT DISTINCT order_id FROM Order_Details WHERE order_id NOT IN (SELECT order_
 Use freely for learning, interviewing, or portfolio work. Add your name as the project author.
 
 ---
-
-If you want, I can:
-- attach this as a downloadable `README.md` file, or
-- add badges (MySQL, dataset size), or
-- generate a short `notes.md` with interpretation of the analysis results.
